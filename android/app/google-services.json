@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "850964155314",
+    "project_id": "subsbooster-de704",
+    "storage_bucket": "subsbooster-de704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850964155314:android:3aa9807aceaa0113f932ab",
+        "android_client_info": {
+          "package_name": "com.example.subsbooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850964155314-rslga7qnbv3a4kfa5phmdpv5h87bcbiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subsbooster",
+            "certificate_hash": "660b5e0b4e93f14526b9493d26c1185edefe0ad6"
+          }
+        },
+        {
+          "client_id": "850964155314-o8set7i1l059pnj24p3tmcd7vrg1rubc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1WXVwW16qWwDS5JyVhlm-9P__WQBnPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850964155314-o8set7i1l059pnj24p3tmcd7vrg1rubc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
